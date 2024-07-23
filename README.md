@@ -1,2 +1,1 @@
-# MERN E-commerce-Store
-
+# MERN E-COMMERCE STORE
