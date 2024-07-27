@@ -17,8 +17,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
 - **Frontend**:
   - React.js
   - Redux
-  - CSS/SCSS
-  - Bootstrap/Material-UI
+  - CSS
 
 - **Backend**:
   - Node.js
@@ -26,7 +25,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
   - MongoDB
 
 - **Payment Gateway**:
-  - [Payment Gateway] (e.g., Stripe, PayPal)
+  - [Payment Gateway]
 
 ## Installation
 
@@ -39,7 +38,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-store.git
+git clone https://github.com/ravikant-diwakar/ecommerce-store.git
 cd ecommerce-store
 ```
 
@@ -129,10 +128,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 4. Push to the Branch (`git push origin feature/FeatureName`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ---
-
-This template covers the basic information needed for your E-commerce Store project. You can customize it further based on your project's specific details and requirements.
