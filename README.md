@@ -1,7 +1,3 @@
-Here's a README template for your E-commerce Store project:
-
----
-
 # E-Commerce Store
 
 An advanced E-commerce store built using the MERN stack, offering customizable product views, product listings, search functionality, cart management, checkout process, and payment gateway integration. This project ensures seamless navigation and a smooth user experience.
