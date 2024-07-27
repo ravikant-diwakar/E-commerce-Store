@@ -2,16 +2,6 @@
 
 An advanced E-commerce store built using the MERN stack, offering customizable product views, product listings, search functionality, cart management, checkout process, and payment gateway integration. This project ensures seamless navigation and a smooth user experience.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Customizable Product Views**: Toggle between list and grid views for product display.
