@@ -4,7 +4,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
 
 ## Features
 
-- **Customizable Product Views**: Toggle between list and grid views for product display.
+- **Customizable Product Views** : Toggle between list and grid views for product display.
 - **Product Listings**: Comprehensive product listings with sorting and filtering options.
 - **Search Functionality**: Efficient search bar to quickly find products.
 - **Cart Management**: Add, update, and remove items in the cart.
