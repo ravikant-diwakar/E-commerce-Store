@@ -8,7 +8,7 @@ An advanced E-commerce store built using the MERN stack, offering customizable p
 - **Product Listings** : Comprehensive product listings with sorting and filtering options.
 - **Search Functionality** : Efficient search bar to quickly find products.
 - **Cart Management** : Add, update, and remove items in the cart.
-- **Checkout Process**: Streamlined checkout process with order summary.
+- **Checkout Process** : Streamlined checkout process with order summary.
 - **Payment Gateway Integration**: Secure payment processing using [Payment Gateway] (e.g., Stripe, PayPal).
 - **Responsive Design**: Optimized for desktop and mobile devices.
 
